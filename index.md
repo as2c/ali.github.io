@@ -6,10 +6,4 @@ permalink: /
 
 # Welcome to My Website
 
-I am a PhD student at the University of Toronto specializing in AI for Physics, Computational Imaging.
-
-Learn more about my:
-- [Research](/research/)
-- [Publications](/publications/)
-- [Talks](/talks/)
-- [Contact Information](/contact/)
+I am a PhD student at the University of Toronto specializing in AI for Physics, Computational Imaging. 
