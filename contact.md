@@ -6,6 +6,6 @@ permalink: /contact/
 
 # Contact
 
-- **Email:** ali.saraertoos@gmail.com
+- **Email:** ali.saraertoosi@mail.utoronto.ca
 - **GitHub:** [as2c](https://github.com/as2c)
-- **LinkedIn:** [Ali Saraer](https://linkedin.com/in/ali-saraer)
+- **LinkedIn:** [Ali SaraerToosi](https://linkedin.com/in/ali-saraer)
